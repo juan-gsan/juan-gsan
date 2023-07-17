@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Juan, I'm a software developer. 
+My name is Juan, I'm a fullstack developer. 
 
 I'm currently expanding my knowledge and looking to collaborate on anything that can make me a better developer or a better person! 
 
