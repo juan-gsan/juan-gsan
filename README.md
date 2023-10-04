@@ -2,7 +2,7 @@
 
 My name is Juan, I'm a fullstack developer. 
 
-I'm currently expanding my knowledge and looking to collaborate on anything that can make me a better developer or a better person! 
+I'm currently expanding my knowledge and looking to collaborate on anything that can make me a better developer! 
 
 In case you want to contact me, this is my e-mail: juan.gsanchez13@gmail.com
 
