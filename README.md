@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-My name is Juan, I'm a fullstack developer. 
+My name is Juan, I'm a creative and innovative Full Stack Developer with a passion for building user-friendly applications. I have a strong understanding of both Front-end and Back-end development, I am constantly seeking new innovative solutions, open to new ideas and exploring new possibilities.
+
+I also studied Architecture and an MSc. I have lived and worked in different countries, Spain, Italy, Switzerland and the Netherlands. 
 
 I'm currently expanding my knowledge and looking to collaborate on anything that can make me a better developer! 
 
